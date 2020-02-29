@@ -1,4 +1,4 @@
-# Exercises of each Rocketseat JavaScript ES6 Starter module.
+# Exercises of each module - Lang: Brazilian Portuguese
 
 ## Exercícios: Módulo 01 
 
